@@ -17,13 +17,7 @@
 * [TC (Technical Committee)](#tc-technical-committee)
 * [Triagers](#triagers)
 * [License](#license)
-
-
-[![NPM Version][npm-version-image]][npm-url]
-[![NPM Install Size][npm-install-size-image]][npm-install-size-url]
-[![NPM Downloads][npm-downloads-image]][npm-downloads-url]
-[![OpenSSF Scorecard Badge][ossf-scorecard-badge]][ossf-scorecard-visualizer]
-
+   # Apna College
 
 ```js
 import express from 'express'
